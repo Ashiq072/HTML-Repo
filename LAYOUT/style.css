@@ -1,0 +1,33 @@
+body{
+    
+    background-image: linear-gradient(to top left,red, orange);
+    background-repeat: no-repeat;
+    height:100vh;
+}
+.box1{
+    height: 300px;
+    width: 500px;
+    border-radius: 25px;
+    background-color: white;
+    top: 20%;
+    right: 30%;
+    position: absolute;
+    padding-left: 300px;
+    padding-top: 70px;
+}
+.box2{
+    height: 30%;
+    width: 17%;
+    border-radius: 15px;
+    background-image:linear-gradient( orangered, red);
+    margin-left: 20%;
+    margin-top: 13%;
+    position: absolute;
+}
+.more{
+    background-image: linear-gradient(to right,orangered,red);
+    height: 12%;
+    width: 30%;
+    border-radius: 15px;
+
+}
